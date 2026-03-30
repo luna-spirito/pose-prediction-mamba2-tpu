@@ -2,6 +2,12 @@
 
 A JAX/Equinox mamba2 model for human motion prediction, featuring autoregressive training without teacher forcing and optimized for Google Cloud TPU acceleration, training on Kaggle.
 
+
+
+https://github.com/user-attachments/assets/6a758bf7-8efe-48f0-a24f-1f1cb08ef357
+
+
+
 ## Overview
 
 This repository implements a motion prediction architecture based on Mamba2 (Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality) to autoregressively predict human poses from the LAFAN1 motion capture dataset.
